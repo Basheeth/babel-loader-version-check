@@ -1,0 +1,15 @@
+{
+  "name": "how-to-publish",
+  "version": "1.0.0",
+  "description": "how to publish a npm package",
+  "main": "publishFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/Basheeth/testing.git"
+  },
+  "author": "Basheeth",
+  "license": "ISC"
+}
